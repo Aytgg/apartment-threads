@@ -112,6 +112,26 @@ Program çalıştırıldığında:
    işlemleri gerçekleştirilir
 5. Her işlem tamamlandığında ilerleme durumu ekrana yazdırılır
 
+### Programın Başlangıcı  
+<img src="https://github.com/user-attachments/assets/48924cc0-e8b0-4c70-ad82-b80f892f7a93" width="300" alt="Temel Atma Aşaması">  
+
+<i>Temel atma aşamasının başlangıcı</i>
+
+
+
+### Daire İşlemleri  
+<img src="https://github.com/user-attachments/assets/6f3bffb5-6c16-4773-8480-d867fa790964" width="300" alt="Daire İşlemleri">  
+
+<i>Dairelerde yapılan paralel işlemler</i>
+
+
+
+### Tamamlanmış Proje  
+<img src="https://github.com/user-attachments/assets/0d2298a0-1cb6-418c-89a0-10cbaa0a0b9a" width="300" alt="Tamamlanmış Bina">  
+
+<i>İnşaatı tamamlanmış binanın son durumu</i>
+
+
 ## Kod Yapısı
 
 - `main.c`: Ana program dosyası
