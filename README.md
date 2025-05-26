@@ -2,6 +2,9 @@
 
 Bu proje, çok katlı bir apartmanın inşaat sürecini simüle ederek işletim sistemlerindeki process (süreç), thread (iş parçacığı) ve senkronizasyon kavramlarını modellemektedir.
 
+## Repo Link
+https://github.com/Aytgg/apartment-threads
+
 ## Proje Hakkında
 
 Simülasyon, 10 katlı ve her katta 4 daire bulunan bir apartmanın inşaat sürecini gerçekleştirir. Her kat bir process olarak, her daire ise o process içinde çalışan bir thread olarak temsil edilir. Proje, gerçek bir inşaat sürecindeki senkronizasyon ihtiyaçlarını ve kaynak paylaşımını işletim sistemi kavramları ile modellemektedir.
@@ -154,6 +157,8 @@ Projede üç temel mutex kullanılmaktadır:
 
 Ayrıca `print_mutex` ile ekrana yazdırma işlemleri de senkronize edilmiştir.
 
+## Tanıtım Videosu Link
+https://www.youtube.com/watch?v=4yiDLhGrLsQ
 
 | Ad - Soyad     | Öğrenci Numarası |
 | :------------- | :--------------- |
